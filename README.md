@@ -1,7 +1,24 @@
-# Tauri + Vanilla
+<div align='center'>
+  <h1>Krot📺</h1>
+  <p>😄This project was inspired by a <a href='https://www.youtube.com/watch?v=0QbAhy1FkuA'>childhood cartoon</a><br><br></p>
+  
+  
+</div>
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+<div align='center'>
+  <img src="https://github.com/Digital-Gym/krot/blob/main/img/main-menu.png" alt='main-menu'><br><br><br>
+  <i>When the file is being downloaded, the mole climbs into the hole and drips something there</i><br><br>
+  <img src="https://github.com/Digital-Gym/krot/blob/main/img/download-proccess.png" alt='main-menu'><br><br>
 
-## Recommended IDE Setup
+  That's it :)
+</div>
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+<hr>
+
+<footer>
+  <div align='center'>
+    It uses Rust's Tauri and Vanila web stack<br>
+    <b>⭐️Feel free to contribute</b>
+  </div>
+  
+</footer>
